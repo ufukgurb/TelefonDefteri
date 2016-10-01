@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BrenchModelEki.cs" />
+    <Compile Include="IkinciBrencheklendi.cs" />
     <Compile Include="Kisi.cs" />
     <Compile Include="Patronlar.cs" />
     <Compile Include="Program.cs" />
