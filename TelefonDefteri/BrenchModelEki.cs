@@ -9,5 +9,8 @@ namespace TelefonDefteri
     class BrenchModelEki
     {
         //Nereye eklendiği önemli. Masterdamıyız brenchdemi? Yani() 
+
+
+        //2.Turnuki bişeyler eklendi
     }
 }
