@@ -6,12 +6,9 @@ using System.Threading.Tasks;
 
 namespace TelefonDefteri
 {
-    class Program
+    class Kisi
     {
-        static void Main(string[] args)
-        {
-            //Kodlamaya başlıyoruz.
+        //İçeriği doldurabilirsin modelinin.
 
-        }
     }
 }
