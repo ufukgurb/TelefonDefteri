@@ -16,7 +16,7 @@ namespace TelefonDefteri
             //Navigasyoon geliştirmesi yaptık. 2. branchde
 
 
-            //masterdaqweqqqq
+            //mqqqqqqqqqqqqqqqqqeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
         }
     }
 }
