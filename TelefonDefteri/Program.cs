@@ -12,6 +12,8 @@ namespace TelefonDefteri
         {
             //Kodlamaya başlıyoruz.
 
+
+            //masterdada değişiklik yaptık.
         }
     }
 }
