@@ -10,6 +10,7 @@ namespace TelefonDefteri
     {
         static void Main(string[] args)
         {
+            //Kwqeewqqewdi.
             //Kodwewwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwrdi.
 
 
@@ -18,6 +19,7 @@ namespace TelefonDefteri
 
             //mqqqqqqqqqqqqqqqqqeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 
+            //Naviewqewwqek. 2. branchde
 
             //eqweeeeeeeeeeeeeeee
         }
