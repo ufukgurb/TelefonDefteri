@@ -10,7 +10,10 @@ namespace TelefonDefteri
     {
         static void Main(string[] args)
         {
-            //Kodlamaya başlıyoruz.
+            //Kodlamaya başlıyruzuda deüğiştirdi.
+
+
+            //Navigasyoon geliştirmesi yaptık. 2. branchde
 
 
             //masterdada değişiklik yaptık.
